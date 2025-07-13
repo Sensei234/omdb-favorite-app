@@ -1,0 +1,13 @@
+# Node modules and Python virtualenv
+react-frontend/node_modules
+flask-backend/venv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs or cache
+*.log
+
+# VSCode settings
+.vscode/
